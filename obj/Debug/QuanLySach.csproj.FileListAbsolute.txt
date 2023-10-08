@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLySach\bin\Debug\QuanLySach.exe.config
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLySach\bin\Debug\QuanLySach.exe
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLySach\bin\Debug\QuanLySach.pdb
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLySach\obj\Debug\QuanLySach.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLySach\obj\Debug\QuanLySach.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLySach\obj\Debug\QuanLySach.exe
+C:\Users\ADMIN\Desktop\Bài tập C#\OOP\QuanLySach\obj\Debug\QuanLySach.pdb
